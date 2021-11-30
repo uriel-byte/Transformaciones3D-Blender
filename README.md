@@ -1,5 +1,5 @@
 # Transformaciones3D-Blender
-
+## Esta practica se hizo a travez de Blender, en el cual se presentan algunas de la tranformaciones, esta se hicieron a travez de codigo, en esta caso Blender maneja Scrips en donde podemos poner codigo.
 >Ahora, viene la parte de contruir el cubo, para eso importamos la librería bpy que es para añadir la librería de objetos para Blender de Python.
 
 ![image](https://user-images.githubusercontent.com/71051834/144003788-6764e1b1-2087-48ed-8717-6a173a3df3b0.png)
